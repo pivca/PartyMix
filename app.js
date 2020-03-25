@@ -1,6 +1,6 @@
 const express =require("express");
 var MongoClient = require('mongodb').MongoClient;
-
+//pivan menjao
 
 
 var url = "mongodb+srv://Ivan:javolimtatu2@partymode-hxqit.gcp.mongodb.net/test?retryWrites=true&w=majority";
